@@ -7,7 +7,7 @@ The stackoverflow question I asked is at:
 https://stackoverflow.com/questions/52391883/what-is-the-pattern-for-gitignore-to-ignore-temp-filenames-with-in-them
 
 I realized after creating this repo that I didn't want to commit the temp files that I
-didn't want to commite so I created short scripts to create the temp files and remove them.
+didn't want to commit so I created short scripts to create the temp files and remove them.
 
 To experiment do the following.  I state what to do along with giving you the command to run.
 
