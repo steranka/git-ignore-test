@@ -1,0 +1,11 @@
+#!/bin/sh
+touch ".#file"
+touch ".#file#"
+touch "#file"
+touch "#file#"
+touch "commit#file"
+touch "bin/.#file"
+touch "bin/.#file#"
+touch "bin/#file"
+touch "bin/#file#"
+touch "bin/commit#file"

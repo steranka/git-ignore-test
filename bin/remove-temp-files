@@ -1,0 +1,5 @@
+#!/bin/sh
+find . -type f -print | grep '#' | grep -v grep | tee /tmp/$$ | xargs rm
+echo The following temp files were removed:
+cat /tmp/$$
+rm /tmp/$$
